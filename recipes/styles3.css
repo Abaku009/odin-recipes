@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+* {
+    background: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hamburger {
+    background-color: red;
+    color: white;
+}
+
