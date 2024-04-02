@@ -9,3 +9,9 @@ li {
     font-weight: normal;
     color: blue;
 }
+
+button {
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+}
