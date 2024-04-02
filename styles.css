@@ -15,3 +15,8 @@ button {
     color: black;
     font-weight: bold;
 }
+
+* {
+    background: chartreuse;
+}
+
