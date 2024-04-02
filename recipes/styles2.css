@@ -1,0 +1,22 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
+
+* {
+    background: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.gyros {
+    text-align: center;
+    background-color: white;
+    color: gold;
+}
+
