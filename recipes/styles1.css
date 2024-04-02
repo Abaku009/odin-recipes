@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    background-color: green;
+    background-color: white;
 }
 
 img {
@@ -11,7 +11,7 @@ img {
 * {
     font-family: Arial, Helvetica, sans-serif;
     background: greenyellow;
-    color: white;
+    color: blue;
 }
 
 .center {
